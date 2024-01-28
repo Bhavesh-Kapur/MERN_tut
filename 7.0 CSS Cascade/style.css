@@ -1,0 +1,17 @@
+.container{
+  background-color: blue;
+  padding: 10px;
+  margin: 25%;
+  border: 10px solid purple;
+}
+
+
+.innerbox{
+  background-color: red;
+  color: white;
+}
+
+.box1,.box2{
+  padding: 10px;
+  color:  yellow;
+}
